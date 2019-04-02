@@ -1,10 +1,4 @@
-# double_string
-def double_str('aa'):
-    s1 = '*' + s
-    print(s1)
-    while len(s1) < (2*len(s)+1):
-        s1 = s1.replace('*a','aa*')
-        print(s1)
-    s1 = s1.replace('*','')
-    print(s1)
-    print(len(s1))
+# Task : 
+
+Increase the length of the given word in two times with *Markov algorithm.*
+Assume, that alphabet contains just 'a'. (Alphabet = {a} ). We can also use auxiliary symbols.
